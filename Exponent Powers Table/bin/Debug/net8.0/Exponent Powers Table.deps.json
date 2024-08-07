@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exponent Powers Table/1.0.0": {
+        "runtime": {
+          "Exponent Powers Table.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exponent Powers Table/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

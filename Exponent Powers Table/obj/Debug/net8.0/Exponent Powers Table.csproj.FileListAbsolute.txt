@@ -1,0 +1,14 @@
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\bin\Debug\net8.0\Exponent Powers Table.exe
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\bin\Debug\net8.0\Exponent Powers Table.deps.json
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\bin\Debug\net8.0\Exponent Powers Table.runtimeconfig.json
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\bin\Debug\net8.0\Exponent Powers Table.dll
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\bin\Debug\net8.0\Exponent Powers Table.pdb
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\obj\Debug\net8.0\Exponent Powers Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\obj\Debug\net8.0\Exponent Powers Table.AssemblyInfoInputs.cache
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\obj\Debug\net8.0\Exponent Powers Table.AssemblyInfo.cs
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\obj\Debug\net8.0\Exponent Powers Table.csproj.CoreCompileInputs.cache
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\obj\Debug\net8.0\Exponent Powers Table.dll
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\obj\Debug\net8.0\refint\Exponent Powers Table.dll
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\obj\Debug\net8.0\Exponent Powers Table.pdb
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\obj\Debug\net8.0\Exponent Powers Table.genruntimeconfig.cache
+C:\Users\molin\source\repos\Exponent Powers Table\Exponent Powers Table\obj\Debug\net8.0\ref\Exponent Powers Table.dll
